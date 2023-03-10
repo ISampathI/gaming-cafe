@@ -6,7 +6,6 @@ This is a web-based management system designed for gaming cafes. It provides fea
 - Book PCs
 - View available games
 - View popular games and PCs
-- 
 ##### Admin Features
 - Game management
 - PC management
