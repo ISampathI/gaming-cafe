@@ -2,11 +2,12 @@
 This is a web-based management system designed for gaming cafes. It provides features for users to book PCs, view available games, and see popular games and PCs. Admins have access to additional features including game and PC management, user management, package management, and reservation management. The frontend is created using HTML, CSS, and JavaScript, while the backend is built on Laravel and the database used is MySQL.
 
 ### Features
-- User Features
+##### User Features
 - Book PCs
 - View available games
 - View popular games and PCs
-- Admin Features
+- 
+##### Admin Features
 - Game management
 - PC management
 - User management
