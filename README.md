@@ -16,9 +16,13 @@ This is a web-based management system designed for gaming cafes. It provides fea
 ### Screenshots
 Here are a few screenshots of the system:
 
-Screenshot 1
-Screenshot 2
-Screenshot 3
+#### Home page
+![ScreenShot](/Screenshots/img1.jpg)
+#### Admin page
+![ScreenShot](/Screenshots/img2.jpg)
+#### User page
+![ScreenShot](/Screenshots/img3.jpg)
+![ScreenShot](/Screenshots/img4.jpg)
 
 ### Installation
 To install this system, follow these steps:
