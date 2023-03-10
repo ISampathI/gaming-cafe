@@ -75,17 +75,17 @@ body {
 
 .homearea nav .logo {
     position: relative;
-    font-size: 2rem;
+    font-size: 1.5rem;
     height: 100%;
     margin-right: auto;
     padding-inline: 5%;
     display: flex;
     place-items: center;
-    font-family: 'Helios Pro';
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .homearea nav .logo span {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     color: var(--secondc);
     font-family: 'Helios Pro';
 }

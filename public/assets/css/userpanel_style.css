@@ -959,7 +959,7 @@ th {
 }
 
 .adminarea .homedata .hdsubcontainer .medleContainer .medle {
-    height: 100%;
+    height: 50px;
     aspect-ratio: 1/1;
     border: 1px solid var(--secondcA2);
     /* transform: rotate(45deg) translate(15%); */
